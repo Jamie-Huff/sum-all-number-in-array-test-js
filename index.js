@@ -1,4 +1,3 @@
-// not solved
 function sumItems(array) {
 
   let sum = 0
@@ -13,6 +12,4 @@ function sumItems(array) {
 
   return sum
 }
-
-console.log(sumItems([1, [2, 3], 4, [], 5]));
 module.exports = sumItems;
